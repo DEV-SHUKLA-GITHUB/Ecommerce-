@@ -1,4 +1,4 @@
-React Ecommerce Site
+<h1>React Ecommerce Site</h1>
 Live link - https://ecommerce-react-app-1212.netlify.app/
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/96439384/210846086-44e01af2-238b-44e3-bc8a-eeec065c37f8.png">
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/96439384/210846114-6b61dd75-26df-4b6e-87ec-213a7a33dca0.png">
